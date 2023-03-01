@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Test suite for the Routes components > Should render a snapshot of the topbar component 1`] = `
+<a
+  href="/home"
+>
+  Home
+</a>
+`;
