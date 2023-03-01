@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import { BrowserRouter } from 'react-router-dom';
-import Root from '@/routes/root';
+import Root from '../routes/root';
 import '@testing-library/jest-dom/extend-expect';
 
 describe('Test suite for the Routes components', () => {
