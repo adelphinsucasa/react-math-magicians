@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.Calculator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  margin-top: 40px;
+  justify-content: center;
+}
+
+.btnContainer {
+  width: 60%;
+  background-color: aqua;
+  margin: 40px 0;
+}
+
+.display {
+  background-color: gray;
+  color: white;
+  width: 100%;
+  height: 50px;
+  border: 1px solid white;
+  text-align: right;
+  padding: 10px;
+  font-size: 28px;
+}
+
+.pnlButtonsContainer {
+  display: flex;
+  background-color: lightgray;
+  border: 1px solid white;
+}
+
+.pnlButtonsContainer .pnlMainButtons {
+  width: 100%;
+}
+
+.pnlMainButtons .pnlRow {
+  display: flex;
+}
+
+.button {
+  width: 25%;
+  height: 10vh;
+  border: 1px solid white;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.button.orange {
+  background-color: orange;
+}
+
+.button:hover,
+.button.orange:hover {
+  background-color: lightslategrey;
+}
+
+.button:active,
+.button.orange:active {
+  font-size: 40px;
+}
+
+.button.doblesize {
+  width: 50%;
+}

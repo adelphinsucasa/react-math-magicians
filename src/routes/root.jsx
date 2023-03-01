@@ -8,13 +8,13 @@ export default function Root() {
         <nav>
           <ul id="buttonsbar">
             <li>
-              <Link to="/home/1">Home</Link>
+              <Link to="/home">Home</Link>
             </li>
             <li id="itemCenter">
-              <Link to="/home/2">Calculator</Link>
+              <Link to="/calculator">Calculator</Link>
             </li>
             <li>
-              <Link to="/home/3">Quote</Link>
+              <Link to="/quote">Quote</Link>
             </li>
           </ul>
         </nav>
