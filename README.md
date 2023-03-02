@@ -15,6 +15,7 @@
   - [Tech Stack](#tech-stack)
   - [Key Features](#key-features)
 - [🧑🏻‍💻 Live Demo](#live-demo)
+- [💻 Render Deployment](#render-deploy)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Clone](#prerequisites)
@@ -75,6 +76,10 @@ Comming Soon
 ## 🧑🏻‍💻 Live Demo <a name="live-demo"></a>
 
 Comming Soon
+
+## 💻 Render Deployment <a name="render-deploy"></a>
+
+[Visit the Render Deployment](https://react-math-magicians-60e0.onrender.com)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
